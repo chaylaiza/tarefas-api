@@ -3,7 +3,7 @@
 API REST de tarefas feita com Spring Boot 3, Spring Data JPA e PostgreSQL, com testes automatizados, Docker, Docker Compose, logs e Actuator.
 Trabalho das Aulas 10 e 11.
 
-**Aluno:** (seu nome) — **Repositório:** (link do GitHub)
+**Aluno:** (Chayenne Laiza da Silva - 01796436) — **Repositório:** (https://github.com/chaylaiza)
 
 ## Requisitos
 - Java 21 e Maven 3.9+ (para rodar sem Docker)
